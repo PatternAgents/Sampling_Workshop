@@ -25,7 +25,8 @@ some audio generation and digital audio sampling tools.
 
 **Workshop Links :**
 + [Installation Instructions](Workshop/Install_Instructions.pdf)
-+ [Workshop Presentation](Workshop/presentations/Workshop.pps)
++ [Workshop Presentation](Workshop/presentations/Workshop.pdf)
++ [Workshop Multimedia](Workshop/presentations/Workshop.pps) (Requires PowerPoint)
 + [Hand's On Lab Instructions](Workshop/presentations/Lab_Instructions.pdf)
 + [Workshop Projects](Workshop/projects/)
 + [Workshop Evaluation](Workshop/presentations/Workshop_Evaluation.pdf)
