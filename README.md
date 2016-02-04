@@ -1,7 +1,8 @@
 Audio Synthesis and Digital Sampling Workshop
 =============================================
-As someone who worked on the very first generation of sampling musical instruments
-digitial drum machines, I have some interesting perspectives and stories around samplers and the musical instrument industry. This Workshop will cover the history and theory of audio signal generation, and digtial audio sampling, followed by some Hand's On labs where we'll work with
+As someone who was able to work on several of the very first generation of sampling musical instruments, 
+and digitial drum machines, I have some historical perspectives and stories around samplers and the musical instrument industry in general. 
+This Workshop will cover the history and theory of audio signal generation, and digtial audio sampling, followed by some Hand's On labs where we'll work with
 some audio generation and digital audio sampling tools.
 
 **Workshop Objectives :**
@@ -17,8 +18,10 @@ some audio generation and digital audio sampling tools.
 
 **Required Hardware :**
 
-+ Windows Compatible Computer with USB port
-+ Arduino & VS1053 Soundcard with Headphones 
++ Windows Compatible Computer with USB port, and USB-Micro Cable
++ Teensy3 with Teensy Audio Board
++ Arduino Compatible with VS1053 Sound Shield
++ Headphones and/or Microphone
 
 **Workshop Links :**
 + [Installation Instructions](Workshop/Install_Instructions.pdf)
@@ -33,6 +36,7 @@ some audio generation and digital audio sampling tools.
 *PatternAgents Workshops*](http://www.patternagents.com/projects/Workshops.html)
 
 -------------------------------------------------------------------------------------------
+
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
 [![Licensing CC BY-SA 4.0](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 *Licensing CC BY-SA 4.0*](http://creativecommons.org/licenses/by-sa/4.0/)
@@ -40,6 +44,7 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 It may be used for Educational, Personal, or Commercial Use, provided you keep these notices, attribution, and share-alike. When you apply these licenses to material you create, it meets the Freedom Defined definition of a "Free Cultural Work". Free cultural works are the ones that can be most readily used, shared,and remixed by others, and go furthest toward creating a commons of freely reusable materials.
 
 -------------------------------------------------------------------------------------------
+
 All product and company names are trademarks™ or registered® trademarks of their respective holders.
 
 Use of them does not imply any affiliation with or endorsement by them.
